@@ -9,7 +9,7 @@ Purpose/Description: This Java program simulates a Library
  					 list/display all books currently in the
  					 collection.
 
-Author’s VID: V03590939
+Author: Carlos Lopez Padilla
 
 Course: Software Development I CEN-3024C-14835
 
